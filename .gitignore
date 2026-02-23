@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# API keys (never commit these!)
+.env
+config.py
+
+# Large data files (optional — uncomment if you want to exclude raw data from Git)
+# data/raw/
